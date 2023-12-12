@@ -236,4 +236,4 @@ khalasCopyForGeroge.getNamesOfJesus();
 // react and node project formats 
 // map and sets advanced datatypes
 // Design patterns factory DP, Getter setter DP
-// Promises while do while loops and api calls conditions using promises
+// Promises while do while loops and api calls conditions using promises axiom
