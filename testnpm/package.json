@@ -1,0 +1,22 @@
+{
+  "name": "packedwater",
+  "version": "1.0.0",
+  "description": "creating a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "testnpmpkg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityahongal/jslatest.git"
+  },
+  "keywords": [
+    "testpkg"
+  ],
+  "author": "Aditya Hongal",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/adityahongal/jslatest/issues"
+  },
+  "homepage": "https://github.com/adityahongal/jslatest#readme"
+}
